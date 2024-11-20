@@ -6,7 +6,7 @@ def calculate(a, b, operation):
         return a + b
         pass
     elif operation == "subtract":
-        # Add your logic here
+        return a - b
         pass
     elif operation == "multiply":
         # Add your logic here
